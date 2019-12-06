@@ -1,6 +1,7 @@
 #To MAKE A CALCULATOR
 #This is how we do!
 #This is long code. Make it short.
+# today is Friday Dec 6, 2019
 n1=float(input("enter the first number:"))
 oper=input("Enter the operator:")
 n2=float(input("enter the second number:"))
